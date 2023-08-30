@@ -10,3 +10,7 @@
 ```java 
 Private String message = "Bonjour tout le monde !";
  ```
+## Liste de tâches
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
