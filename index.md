@@ -6,3 +6,7 @@
 ###### et voici le dernier 
 ## AJout d'une image 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+## Ajout d'un markdown corret pour le code
+```java 
+Private String message = "Bonjour tout le monde !";
+ ```
