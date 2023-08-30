@@ -4,3 +4,5 @@
 #### et ainsi de suite
 ##### plus qu'un titre
 ###### et voici le dernier 
+## AJout d'une image 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
